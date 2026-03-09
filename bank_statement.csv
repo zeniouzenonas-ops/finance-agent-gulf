@@ -1,0 +1,16 @@
+Date,Description,Amount,Type,Balance
+2026-03-01,Opening Balance,50000.00,Credit,50000.00
+2026-03-02,Supplier Payment - ABC Ltd,-12500.00,Debit,37500.00
+2026-03-03,Customer Receipt - XYZ Corp,28000.00,Credit,65500.00
+2026-03-04,Payroll,-18000.00,Debit,47500.00
+2026-03-05,Office Rent,-3500.00,Debit,44000.00
+2026-03-06,Supplier Payment - DEF Ltd,-8200.00,Debit,35800.00
+2026-03-07,Customer Receipt - ABC Corp,15000.00,Credit,50800.00
+2026-03-08,Bank Charges,-250.00,Debit,50550.00
+2026-03-09,Utility Bills,-1200.00,Debit,49350.00
+2026-03-10,Customer Receipt - GHI Ltd,32000.00,Credit,81350.00
+2026-03-11,Supplier Payment - JKL Ltd,-22000.00,Debit,59350.00
+2026-03-12,Travel Expenses,-4500.00,Debit,54850.00
+2026-03-13,Customer Receipt - MNO Corp,19500.00,Credit,74350.00
+2026-03-14,Tax Payment,-9800.00,Debit,64550.00
+2026-03-15,Supplier Payment - PQR Ltd,-11000.00,Debit,53550.00
