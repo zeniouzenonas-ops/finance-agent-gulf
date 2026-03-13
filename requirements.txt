@@ -1,2 +1,5 @@
 anthropic==0.49.0
 streamlit
+openpyxl
+pdfplumber
+pandas
